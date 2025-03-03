@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/KarpelesLab/rc?status.svg)](https://godoc.org/github.com/KarpelesLab/rc)
+
 # rc
 
 A simple object to be used when implementing `io.ReaderFrom` to keep track of how many bytes
